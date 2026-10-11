@@ -758,7 +758,7 @@ In Theaters & IMAX Summer 2026
   * Recruited by Nightwing (Dick Grayson, operating as Batman).  
 * Session 17  
   * Significant Respec:  
-    * Replaced Accuracy 4 with uncanny 4  
+    * Replaced Accuracy 4 with discipline 4  
     * Reduced Uncanny 2 to Uncanny 1 to raise Sturdy 2 to Sturdy 3\.  
     * Moved agility 7 to melee 7 & replaced evasion with brawling.  
     * Double Tap, Stopping Power, & Suppressive Fire replaced with Elemental Blast (Force), Elemental Burst (Force), & Supernova (Force)  
