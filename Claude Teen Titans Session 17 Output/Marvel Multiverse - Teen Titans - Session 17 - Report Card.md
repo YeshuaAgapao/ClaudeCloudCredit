@@ -6,7 +6,7 @@
 
 **Grading period:** waking up in the bunk room, the 24-hour hold, the Maze, and the Arena through the end of Round 1. The fight paused at the top of Round 2, so **every combat grade is a midterm.**
 
-**All content is AI-generated (Claude).** Sources:
+**All content is AI-generated (Claude Opus 5.5 Max).** Sources:
 
 * *Marvel Multiverse - Teen Titans - Session 17 - Roster and Logs*: sheets, power text, house rules, and Edge's Session 17 respec.
 * *Marvel Multiverse - Teen Titans - Superheroic Excursion Log*: the Session 17 section is the evidence. Sessions 15 and 16 are used for context only.
