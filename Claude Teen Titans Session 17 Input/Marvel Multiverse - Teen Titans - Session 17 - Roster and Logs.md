@@ -204,7 +204,7 @@
 
 | Codename | Real Name | Gender / Age | Rank | Occupation | Origin | Health | Focus | H-DR | F-DR | Abilities | Defenses | Damage Mult. |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Oracle** | Wade Dobson | M / 16 | 3.3 | Student | High Tech (Cybernetics) | 90 | 180 | 3 | 0 | \-1,5,3,6,0,3 | **18**,18,16,16,10,13 | 3-1, 5+5, 3+0, 3+3 |
+| **Oracle** | Wade Dobson | M / 16 | 3.5 | Student | High Tech (Cybernetics) | 90 | 180 | 3 | 0 | \-1,5,3,6,0,3 | **18**,18,16,16,10,13 | 3-1, 5+5, 3+0, 3+3 |
 | **Lock-Step** | Eric Williams | M / 15 | 3.5 | Student | Mutant \+ Chaos Magic | 60 | 90 | 0 1^ | 3 | 7,-1,2,2,7,0 | 17,9,12,15,20,13**20**,**20**,**20**,**20**,20,**20**^ | 6+7, 4-1, 3+7, 3+0 |
 | **Quasar- Force** | Endo Wenas | M / 14 | 3.5 | Student \+ Scientist | X-Element mother box | 60 | 180 | 3 | 3 | \-2,6,2,5,-2,7 | **19**,19,15,18,**20**,20 | 3-2, 3+6, 3-2, 7+7 |
 | **Edge** | Murphy King | M / 15 | 3.5 | Student | Monstrous | 90 | 90 | 3 | 1 | 6,0,3,2,7,-1 | 19,**19**,16,13,18,**18** | 3+6, 3+0, 7+7, 3-1 |
