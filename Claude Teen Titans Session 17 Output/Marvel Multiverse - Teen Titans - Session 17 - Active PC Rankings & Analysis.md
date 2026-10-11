@@ -8,7 +8,7 @@ The scales are primarily a Tier-1 Special Operations Unit–style personnel read
 **Snapshot:** Post-Session 17 · Campaign Day 56 (Saturday; in-world 2026-12-12), plus about a day in a pocket dimension that the hosts say Earth will not feel · Rank 3.5
 **Roster analysed:** Oracle · Intrepid · Quasar-Force · Lock-Step · Edge *(Exemplar II departed — archived in §11)*
 **Model:** Claude, run as a Claude Code cloud session
-**Scope:** 101 ranked axes · 505 scored placements · one departed-PC archive
+**Scope:** 102 ranked axes · 510 scored placements · one departed-PC archive
 **Format:** every placement is itemised twice — an **All-time** case for the score and a **Session 17** shift with its reason (see *How to read an entry*)
 
 **Contents**
@@ -40,9 +40,9 @@ Sources Fed to AI to generate this:
 * (AI-generated) The Session 16 edition of this document — the baseline for every score, finding and revision history carried forward. Its own Snapshot line read *Post-Session 15*; that was a stale label, and this edition's line is corrected.
 * No other documents were attached. Earlier editions drew some minor bleed from stored notes on prior conversations (the Iron-Side and Nightwing reports, the psychological evaluations, the Wenas family therapy session); none was available to this revision, so whatever bleed survives here survives through the Session 16 text.
 
-Sources of the 101 scales:
+Sources of the 102 scales:
 
-* 40% from myself, the human
+* 40% from myself, the human (including 1.15 Heroism, added this revision)
 * 30% from Anthropic Claude
 * 20% from Google Gemini
 * 10% from OpenAI ChatGPT
@@ -52,14 +52,14 @@ Sources of the 101 scales:
 
 **This is an out-of-character analytical document.** It uses mechanics, GM-side lore and player knowledge freely. Where a judgement depends on information no PC possesses, it is marked **⟨OOC⟩**. Where a judgement depends on information only *some* characters hold, the holder is named.
 
-**How to read an entry.** All 505 placements now have the same shape:
+**How to read an entry.** All 510 placements now have the same shape:
 
 1\. **Name** \`score\`
 
 - **All-time.** The standing, campaign-wide case for the score.
 - **Session 17: 7.0 → 7.5 (+0.5).** The shift since the last edition, and why.
   * **All-time** is the character's standing file on that axis across Sessions 1–16: the sheet, the traits and backstory, the repeated behaviour, and the incidents that set the level. **Session 16's detail has been folded into it**, and earlier sessions compressed, so that the file reads as one case rather than a stack of revisions.
-  * **Session 17** states the shift as numbers, measured from the Session 16 edition's score: `S16 → S17 (change)`, or *holds at* when the score did not move. It then gives the Session 17 evidence and the reasoning for the size and direction of the move, or for the hold.
+  * **Session 17** states the shift as numbers, measured from the Session 16 edition's score (for the new 1.15 Heroism, from its retroactive Session 16 baseline): `S16 → S17 (change)`, or *holds at* when the score did not move. It then gives the Session 17 evidence and the reasoning for the size and direction of the move, or for the hold.
 * **On the §2 risk axes** a more negative number means more exposure, so the label adds *exposure up* or *exposure down*.
 * **Edge is a returning member this revision, with one session of file.** His *All-time* item is that file: his backstory and his first fight, which he fought on a sheet he has since rebuilt. Where his Session 17 number moved because of the rebuild rather than play, the shift carries **⟨Re-spec⟩**, and the item says what changed on the sheet. Read every Edge score as still provisional; two sessions is a short file.
 
@@ -76,6 +76,7 @@ Sources of the 101 scales:
 * **⟨Re-spec⟩** marks a movement caused by Edge's rebuild rather than by play.
 * **⟨Advance⟩** marks a movement caused by Oracle's newly declared Rank 3.5 advances.
 * **⟨Retcon⟩** marks a correction to something the Session 16 edition reported from the end of Session 16 that the log has since withdrawn.
+* **⟨New axis⟩** marks 1.15 Heroism, added this revision. Its Session 16 figures are a retroactive baseline, scored on the record through Session 16 with the retcon applied.
 
 **Damage notation.** Damage multipliers are written *multiplier + add* per the roster convention: `7+7` is a ×7 multiplier with +7 applied after the multiplication, not a flat bonus of 14. Expected values use a Marvel-die mean of 4.33 (a roll of 1 counts as 6) and exclude Fantastic doubling, edges, assists and Focus investment. Edge's Elemental Blast adds +1 to his damage bonus for every 2 Focus spent, like Intrepid's Smash; the table in §4.10 shows the base line.
 
@@ -84,8 +85,10 @@ Sources of the 101 scales:
 * **Edge rebuilt himself.** Between sessions his player replaced the marksman's kit — Agility 7, Accuracy 4, Stopping Power, Double Tap, Suppressive Fire, Slow-Motion Dodge, Situational Awareness, the Cutting Edge and his Healing Factor — with Force elemental control run off Ego. He now has **Ego 7 with Discipline 4 (×7+7), Elemental Blast (Force) as his Signature Attack, Elemental Burst (Force), Supernova (Force) and Lightning Actions**, on Melee 6 with Brawling, Sturdy 3, Uncanny 1, Wisdom and Heightened Senses 2. His abilities read Melee 6, Agility 0, Resilience 3, Vigilance 2, Ego 7, Logic −1; his defences 19/19/16/13/18/18; H-DR 3, F-DR 1. His role is now *Kinetic Force Artillery & Disciplined Vanguard*, and his power summary describes *"Catastrophic Invisible slashing force producing precise unseen cuts at range and sweeping storms of blades that carve through everything around him at once."*
   * **What it buys:** the team's second area attack, the heaviest single-target output per round on the roster, a guaranteed Marvel on initiative, and Ego 7 — level with Lock-Step for the highest social ability score on the team.
   * **What it costs:** his healing factor, his dodge, his Suppressive Fire and every point of Agility.
-* **Oracle's two Rank 3.5 advances are declared**, after three sessions undeclared: **Agility 4 → 5 and Accuracy 1 → 2**, the last two items on his Rank 3→4 plan. His line is now ×5+5 and his physical defences 18/18/16. Neither advance is the ego- or logic-based power that projects strength, or Uncanny, so the four ⟨Flag⟩s the last edition carried on §4.2, §4.5, §6.4 and §7.3 resolve to *no change*: the counter-build is still open. ⟨Flag⟩ The roster's reference table still shows his rank as 3.3; his full entry carries all five Rank 3→4 items, and he is scored on the full entry.
+* **Oracle's two Rank 3.5 advances are declared**, after three sessions undeclared: **Agility 4 → 5 and Accuracy 1 → 2**, the last two items on his Rank 3→4 plan. His line is now ×5+5 and his physical defences 18/18/16. Neither advance is the ego- or logic-based power that projects strength, or Uncanny, so the four ⟨Flag⟩s the last edition carried on §4.2, §4.5, §6.4 and §7.3 resolve to *no change*: the counter-build is still open. The roster lists him at Rank 3.5 with all five Rank 3→4 items taken.
 * **The mentor tag is settled.** Edge's roster tags now read *Mentor (Oracle / Barbara Gordon)*: the Oracle who found him online and called the Birds was Barbara Gordon, not the team's Oracle. The ⟨Flag⟩ the last edition carried on §1.8, §2.6, §5.12 and §5.15 is closed.
+
+**One axis was added.** ⟨New axis⟩ **1.15 Heroism**, in §1: the willingness to take a risk or pay a cost for someone else — the public, a teammate, or an enemy. Its Session 16 figures are a retroactive baseline, and every Session 16 aggregate in §10 is restated on 102 axes so that the comparisons stay like for like. Its order is the same at both points — Oracle, Intrepid, Edge, Quasar-Force, Lock-Step — and the only rise on it in Session 17 is the newcomer's.
 
 **The session is the story of this revision.** At the end of Session 16 the team was not at home and briefing Wonder Woman, as the last edition reported. ⟨Retcon⟩ It was at a staging point in the next building, where Oracle's module *"makes him feel weird"* and he passed out, and Lock-Step, held up only by Let's Go, went down with him. They woke in a military bunk room in a pocket dimension, *"selected for the newest episode of arena ball,"* and *"elected by a representative of your world"* — *"Minji Lin aka Firefly aka the tiny terror aka Death from Nowhere."* Every outside line failed inside the first hour:
 
@@ -105,21 +108,21 @@ The hosts gave the team 24 hours of rest, a maze and a colosseum, and set it aga
 
 The hosts promised to return the team *"in whatever state you end up in, precisely at the moment and place that you left."* **The fight paused at the start of Round 2.**
 
-**The newcomer asked the question this document has carried for two revisions.** No Titan had objected on the record to the Destined errand — Lock-Step's private request in Session 15 that a villain team kill a detainee. In Session 17 the member who had been on the team for a day asked: *"if they're really killing people that's kind of our problem too right?"* The answers set the session's character scores:
+**The newcomer asked the question this document has carried for two revisions.** No Titan had objected on the record to the Destined errand — Lock-Step's private request in Session 15 that a villain team kill a detainee. In Session 17 the member who had been on the team for an afternoon asked: *"if they're really killing people that's kind of our problem too right?"* The answers set the session's character scores:
 
 * **Lock-Step:** *"deaths we're not worried about right now. We're trying to save the world first,"* and *"we can either save and protect our righteousness or actually save people's lives."*
 * **Quasar-Force:** *"One thing I'm very confident on is that the destined will kill every man and woman in that lab, whether the progenitor is there or not,"* and then *"we needed to save the world and we were short on hands."*
-* **Oracle** vouched for Lock-Step's account of the stakes — *"There was a time I doubted Lockstep, and he's preaching the gospel"* — and said nothing about the killing.
+* **Oracle** vouched for Lock-Step's account of the stakes — that the Justice League wants them to save the world: *"There was a time I doubted Lockstep, and he's preaching the gospel"* — and did not object to the killing.
 * **Intrepid:** *"I get what you're saying."*
 * **Edge,** later, as a rule for the arena that Lock-Step accepted: *"We follow the rule when it's easy and when it's hard. Otherwise, it's not a rule, it's a mood."*
 
-**The lead held, to within a thousandth.** Oracle +3.856 against Quasar-Force +3.463 is a lead of 0.393, against 0.394 last revision; both fell by three hundredths, for different reasons. **Edge rose 0.366, to +0.932, and 85% of the rise is play rather than the rebuild.** He is now third on both headline composites (the 94 non-fame axes), so the score-based and position-based methods agree on third place for the first time. One hundred and twenty-six placements moved, 61 of them Edge's (31 of those are the re-spec).
+**The lead held, to within half a hundredth.** Oracle +3.895 against Quasar-Force +3.463 is a lead of 0.432, against 0.427 last revision restated with Heroism (0.394 as published); both fell by about four hundredths, for different reasons. **Edge rose 0.367, to +0.980, and 86% of the rise is play rather than the rebuild.** He is now third on both headline composites (the 95 non-fame axes), so the score-based and position-based methods agree on third place for the first time. One hundred and thirty placements moved, 62 of them Edge's (31 of those are the re-spec).
 
-* **Oracle** moved on 17 axes, five of them his advances. He emptied his battery to 5 of 180 getting the two teammates without healing factors on their feet, and then said the sentence that moves him: *"I still believe in saving people. I just think that most of the people telling us what to do don't know what they're doing."* In the arena a copy of him beat him with his own Point-Blank Parry.
-* **Quasar-Force** moved on 18, eleven for the worse. He drew a one-minute penalty for ripping a nullifier out of a wall, which froze him at the door. He told another universe's Titans that he will not age, where his father works, and that *"the crooked one"* works in his building. The box he calls Stella asked him for help, and he could not reach her.
-* **Lock-Step** moved on 17, thirteen for the worse. He defended the errand to the newcomer as doctrine, refused to rehearse a formation, and held the team at the door. He stayed with the frozen Quasar-Force (*"I just don't feel comfortable leaving our youngest"*) and gave Earth X357 his real first name.
+* **Oracle** moved on 18 axes, five of them his advances. He emptied his battery to 5 of 180 getting the two teammates without healing factors on their feet, and then said the sentence that moves him: *"I still believe in saving people. I just think that most of the people telling us what to do don't know what they're doing."* In the arena a copy of him beat him with his own Point-Blank Parry.
+* **Quasar-Force** moved on 19, twelve for the worse. He drew a one-minute penalty for ripping a nullifier out of a wall, which froze him at the door. He told another universe's Titans that he will not age, where his father works, and that *"the crooked one"* works in his building. The box he calls Stella asked him for help, and he could not reach her.
+* **Lock-Step** moved on 18, fourteen for the worse. He defended the errand to the newcomer as doctrine, refused to rehearse a formation, and held the team at the door. He stayed with the frozen Quasar-Force (*"I just don't feel comfortable leaving our youngest"*) and gave Earth X357 his real first name.
 * **Intrepid** moved on 13, eleven for the better — the largest net gain among the four veterans. He was the first into the uniform, called the rest the team took, and worked out at the door that *"time is a factor in this competition."* Then he argued with Lock-Step and walked on without him.
-* **Edge** moved on 61. He knocked out his opponent in the Marvel round with two Force blasts and then sat down in the stands. He fed everyone, and pushed for a team maneuver until he gave up (*"I give up, I completely give up"*). He also punched a teammate who had asked to be punched, with a full combat punch, for 15.
+* **Edge** moved on 62. He knocked out his opponent in the Marvel round with two Force blasts and then sat down in the stands. He fed everyone, and pushed for a team maneuver until he gave up (*"I give up, I completely give up"*). He also punched a teammate who had asked to be punched, with a full combat punch, for 15.
 
 **Principal evidence gaps:**
 
@@ -128,7 +131,6 @@ The hosts promised to return the team *"in whatever state you end up in, precise
 * **Who took them, and why.** *"Firefly"* is unknown to the team. Whether the abduction is connected to the hive's Session 16 order to *"collect"* the team is unknown. ⟨Volatile⟩
 * **Earth X357.** Its Titans are opponents, not enemies. Their mentor, *"Batman,"* used to be *"Raven"* and is a chaos mage. The pairings were mostly theirs, and Facade picked Oracle.
 * **The return promise.** If the hosts keep it, nothing on Earth moved while the team was away, and the 24-hour clock from Session 15 stopped with them. This document takes the promise as stated.
-* **Edge's level-up note** reads *"Replaced Accuracy 4 with uncanny 4,"* but his sheet carries Discipline 4 and Uncanny 1, and his Rank 3→4 list starts at Discipline 3 → 4. ⟨Mechanical flag⟩ Scored on the sheet.
 * **Two Rank-4 powers at Rank 3.5.** Lightning Actions and Supernova both list Rank 4 as a prerequisite and sit on Edge's Rank 3→4 track, which the campaign appears to allow. ⟨Mechanical flag⟩ Scored as printed.
 * **Point-Blank Parry** appears on Oracle's power list. This document had never recorded it, and it was used against him by his copy.
 * **Nightwing and Batman are off screen for a fourth session.** No report to anyone was possible from the pocket dimension, and the retcon removes the one report the last edition thought had been made.
@@ -166,7 +168,7 @@ The hosts promised to return the team *"in whatever state you end up in, precise
     * 0 = none meaningful
     * −10 = maximal, operations already underway.
 
-505 scores total (101 scales times 5 PCs).
+510 scores total (102 scales times 5 PCs).
 
 **Score Quick Recognition Pattern:**
 
@@ -177,7 +179,7 @@ The hosts promised to return the team *"in whatever state you end up in, precise
 
 **Valence `−10.0 to +10.0`**
 
-*Session 17 is the most character-heavy session since Session 15: a day of enforced rest in a captor's bunk room, an argument about the Destined errand, an argument about a formation, an argument at a door, and a short staged fight. Section 1 moved on 25 placements, sixteen of them among the four veterans — more than any other section.*
+*Session 17 is the most character-heavy session since Session 15: a day of enforced rest in a captor's bunk room, an argument about the Destined errand, an argument about a formation, an argument at a door, and a short staged fight. Section 1 moved on 29 placements, nineteen of them among the four veterans — more than any other section. It also gains a fifteenth axis, 1.15 Heroism (⟨New axis⟩).*
 
 ### **1.1 Current Psychological Stability**
 
@@ -207,7 +209,7 @@ The hosts promised to return the team *"in whatever state you end up in, precise
    * **Session 17: holds at +6.5.** The fracture line again, in its quiet form: Endo lay at −15 through the abduction, and Oracle's first act on waking was to put 60 into him and 60 into Edge, leaving himself 5 of 180. Nothing was said about Sessions 14 or 16. What is new is the coping style — the problem is the people above them (*"most of the people telling us what to do don't know what they're doing"*) — which is new on his file and is scored in 1.3. Holds.
 3. **Edge** `+3.5`
    * **All-time.** His backstory is a trauma with a clean before and after: an assault near him, the attacker's weapon sliced to pieces, then the headaches, the glowing eyes and the white hair. **His response was the healthiest one available — he went looking for help**, and trained *"all-out"* with Black Canary when it came. In Session 16 he took 102 damage, went to exactly 0, got up and held a doorway.
-   * **Session 17: +3.0 → +3.5 (+0.5).** Abducted to another dimension on his second day, he did what his backstory says he does and looked for structure: a plan (*"We can train for at least three of those 24 hours"*), food for the room, hope (*"There's always a way out"*) and a method (*"one problem at a time"*). The one disclosure he made is the load: *"if I don't, things could get bad."* **The coping is active, outward and healthy; the cost is permanent.**
+   * **Session 17: +3.0 → +3.5 (+0.5).** Abducted to another dimension on the day he joined, he did what his backstory says he does and looked for structure: a plan (*"We can train for at least three of those 24 hours"*), food for the room, hope (*"There's always a way out"*) and a method (*"one problem at a time"*). The one disclosure he made is the load: *"if I don't, things could get bad."* **The coping is active, outward and healthy; the cost is permanent.**
 4. **Intrepid** `+1.5`
    * **All-time.** Iron Will, Fearless, Enduring Constitution, and a real willingness to take hits so others don't. Session 14 showed how he metabolises defeat: by lowering expectations. The trauma he is least equipped for is still the one most likely to arrive — he has come within one die roll of killing ordinary humans three times — and the only coping he has ever described is the Session 10 ladder from aspirin to buying off the street. Session 16 brought the first power ever stolen from a Titan, and he recorded no reaction to it.
    * **Session 17: holds at +1.5.** Defeat arrived as a forecast rather than an event: *"We're basically going to lose,"* and *"if the powers that be tell us we lost, then we lost."* That is the Session 14 method — expect less, and it can't hurt — used before the fight instead of after it. Holds.
@@ -372,7 +374,7 @@ The hosts promised to return the team *"in whatever state you end up in, precise
    * **Session 17: holds at +8.0.** Independent in both directions. He defended the errand on his own reasoning (*"we needed to save the world and we were short on hands"*) and named what it costs (*"I think we're compromising on the killing"*). In the arena he set a standard nobody gave him — *"I think we should be honorable, at least to them. I don't think our little hosts here care"* — and asked the question that separates rules from rulers: *"Are you talking about Nightwing's rules or the rules of the sport?"* Agency is not direction. Holds.
 3. **Edge** `+7.0`
    * **All-time.** In Session 16 the evidence of independent judgement was tactical: the case for Argent first, made on his own reasoning, and the cynicism he was offered on arrival, declined. The backstory's one moral fact is a choice — when his power appeared, he went looking for someone to teach him restraint.
-   * **Session 17: +4.0 → +7.0 (+3.0).** **The first Titan to object to the Destined errand on the record — on his second day, against three teammates.** *"I have this question hanging around in my head since before we entered that warehouse... if they're really killing people that's kind of our problem too right?"* He pressed it three times:
+   * **Session 17: +4.0 → +7.0 (+3.0).** **The first Titan to object to the Destined errand on the record — on the day he joined, against three teammates.** *"I have this question hanging around in my head since before we entered that warehouse... if they're really killing people that's kind of our problem too right?"* He pressed it three times:
      * *"Wait, just a second, man."*
      * *"it was pretty wild what you say: that sending a team of murder hoboes."*
      * *"if you kill the progenitor, what happened with that people?"*
@@ -417,7 +419,7 @@ The hosts promised to return the team *"in whatever state you end up in, precise
    * **Session 17: holds at +7.0.** He held — the moved line. Pressed by Edge, he did not move back toward his own rule (*"only kill if they are trying to kill you"*); he defended the errand. In the arena he held a line of his own against the de facto leader's suggestion of disguised area attacks: *"I think we should be honorable, at least to them."* Holds.
 3. **Edge** `+6.0`
    * **All-time.** In Session 16 his physical line held — knocked to zero, up again, holding Blitzkrieg off alone — and no moral line was pressured. Restraint, the value his profile is built on, was not tested against a reason to drop it.
-   * **Session 17: +3.0 → +6.0 (+3.0).** **Tested on his second day, by three teammates, and held.** The de facto leader, the team's intelligence and the team's medic gave him between them the whole case for the errand: the stakes, the League, the shortage of hands. He kept saying the same thing until it became a rule for the arena that Lock-Step accepted: *"I'm hearing what you're saying."* One reversal sits in the file too, and it was the right kind: from refusing the hosts' instructions to following them once there was nothing to gain by refusing.
+   * **Session 17: +3.0 → +6.0 (+3.0).** **Tested on the day he joined, by three teammates, and held.** The de facto leader, the team's intelligence and the team's medic gave him between them the whole case for the errand: the stakes, the League, the shortage of hands. He kept saying the same thing until it became a rule for the arena that Lock-Step accepted: *"I'm hearing what you're saying."* One reversal sits in the file too, and it was the right kind: from refusing the hosts' instructions to following them once there was nothing to gain by refusing.
 4. **Intrepid** `+4.0`
    * **All-time.** None of his lines was tested until Session 14, and then one broke four times in a single conversation under one teammate's single word. In Session 16 he held the first line on his file against the same teammate: offered an exit under fire, he refused it.
    * **Session 17: +3.5 → +4.0 (+0.5).** The second held line against the same teammate, and this time it was about where the team went, not about himself. When the door opened and Lock-Step stayed with the frozen Quasar-Force, Intrepid argued — *"I'm going where I'm supposed to go,"* *"It's a penalty!"* — and went on, and the newcomer went with him. Earlier he had refused Lock-Step's request to be punched.
@@ -460,7 +462,7 @@ The hosts promised to return the team *"in whatever state you end up in, precise
    * **Session 17: +8.5 → +8.0 (−0.5).** A panel would find the follow-up already answered. The newcomer asked the question a panel would ask, and the candidate vouched for the teammate who designed the errand. A panel would also read *"most of the people telling us what to do don't know what they're doing."* That is not misconduct; it is the one sentence on his file a sponsor would want to discuss before forwarding it. Still first, by two and a half points.
 2. **Edge** `+5.5`
    * **All-time.** Clean conduct, a League-adjacent sponsor in Black Canary, and a recruiter who wore the cowl to recruit him. The question a panel would ask first is the legend — that he is a reborn weapon that cut down armies.
-   * **Session 17: +3.5 → +5.5 (+2.0).** **The page a panel reads first is now his objection.** On his second day he told the team a commissioned killing was *"kind of our problem too,"* and turned it into *"We follow the rule when it's easy and when it's hard."* That recruit is the profile a vetting officer is looking for. Two sponsors now (Black Canary and Barbara Gordon), one punch thrown at a teammate who asked for it, and the legend still unexamined. **He passes Quasar-Force.**
+   * **Session 17: +3.5 → +5.5 (+2.0).** **The page a panel reads first is now his objection.** On the day he joined he told the team a commissioned killing was *"kind of our problem too,"* and turned it into *"We follow the rule when it's easy and when it's hard."* That recruit is the profile a vetting officer is looking for. Two sponsors now (Black Canary and Barbara Gordon), one punch thrown at a teammate who asked for it, and the legend still unexamined. **He passes Quasar-Force.**
 3. **Quasar-Force** `+3.5`
    * **All-time.** His conduct would genuinely impress a panel: voluntary police cooperation, unprompted intelligence sharing, evidence discipline and an exemplary stay as the League's guest. **He is held below the top by an open fatality investigation**, and since Session 15 by a sentence no vetting officer reads past: a fourteen-year-old endorsing Fade-Out's *"full lethal fury,"* repeated as *"murder hobos"* in Session 16.
    * **Session 17: +4.0 → +3.5 (−0.5).** *"One thing I'm very confident on is that the destined will kill every man and woman in that lab"* — said while defending the decision. The leaks to Earth X357 would be in the file too. For: the toss that took the opposing healer out of a staged bout without much hurting him, and honour stated as a standard.
@@ -470,6 +472,26 @@ The hosts promised to return the team *"in whatever state you end up in, precise
 5. **Lock-Step** `−9.0`
    * **All-time.** **The one file that is actively worse than no file.** Doctor Fate has publicly declared him a danger to the world. Beneath that: the sedations, the humiliated captive, the concealed artifact, two Berserk episodes and Session 14's lasso. Session 15 put a species saved and a station livestreamed beside a killing solicited through a villain team. Session 16 added his best combat-conduct page, which a panel would read after the solicitation.
    * **Session 17: −8.5 → −9.0 (−0.5).** **The solicitation now has a rationale, delivered to a recruit.** A panel would read *"deaths we're not worried about right now"* and *"we don't have that moral high ground"* as the candidate's own account of why the killing was commissioned. The spread on this axis stays at 17.0, the widest in the document.
+
+### **1.15 Heroism**
+
+*⟨New axis⟩ Added at Session 17. The willingness to take a risk or pay a cost for someone else — the public, a teammate, or an enemy. Scored on what was chosen and paid, not on what a power set makes cheap; the capability to protect is 4.19. Scored as valence: +10 = repeatedly risks and spends himself for teammates, bystanders and opponents alike, and never leaves anyone behind; 0 = nothing for or against; −10 = endangers or sacrifices others to spare himself. The Session 16 figures are a retroactive baseline, scored on the record through Session 16 with the retcon applied.*
+
+1. **Oracle** `+7.5`
+   * **All-time.** **The only file on the team with heroism in all three directions.** Teammates: he revived Quasar-Force in Session 1, resisted Lock-Step's teleport in Session 10, *"not wanting to leave without the others,"* and in Session 16 came up from −2 and ran back into the warehouse — *"Drop me again, it was worth it."* The public: he stayed back to cover Sarah in Session 8, and in Session 12 interposed at the Celestial Core and took heavy damage to keep its force field up. Enemies: in Session 7 he finished dragging an unconscious Dargrave assistant out of a room filling with chemicals and hit the decontamination; in Session 8 he revived the man Intrepid had knocked out. Two things hold him below the ceiling: prudence (*"I'm willing to help, but I'm not being the one charging"*) and, since Session 15, silence while the Destined errand was arranged.
+   * **Session 17: +8.0 → +7.5 (−0.5).** For: he emptied the battery on the two teammates without healing factors before anyone knew where they were (*"My battery's about gone now"*), hung back at the door so the frozen Quasar-Force had someone to catch up with, and set the most protective aim in the arena. Against: after the newcomer asked whether the killing was their problem, and Quasar-Force had counted the lab staff's deaths, Edge doubted that the League had really put saving the world on them, and Oracle vouched for the errand's author: *"he's preaching the gospel."* He was backing the Justice League's stakes rather than the Destined, but to the killing he said nothing, and he did not speak for the people in that lab. The heal is his usual role; the vouching is new evidence on this axis's open question, and it outweighs the heal by half a point. Still first.
+2. **Intrepid** `+7.0`
+   * **All-time.** **His heroism is his body between harm and someone softer, offered without being asked.** He held the bank vault against Hijinx in Session 4; in Session 8 he broke out of the webbing and moved in front of the paralysed Quasar-Force; in Session 12 he interposed for Doctor Varga; on Kwa he offered *"You could always use my body as a shield"*; and in Session 16 he refused Lock-Step's exit and fought on until a 60-point marvel put him at −49. Toward enemies his record is restraint born of fear of his own strength, and for the controlled teenagers, *"they were victims."* What is scored is the choice to step in, not the Health that makes it survivable. He sits below Oracle because nearly all of it runs in one direction.
+   * **Session 17: holds at +7.0.** He walked the stepping puzzle three times under the orbs (Lock-Step's last step finished it); went first into the colosseum; and took Capricorn's ram for 72 when asked (*"Yep, sure thing"*). Against: *"I get what you're saying"* to Lock-Step's doctrine — an acknowledgement, not an endorsement — and walking on at the door while the frozen Quasar-Force stayed behind with two teammates. Holds.
+3. **Edge** `+5.5`
+   * **All-time.** One session long through Session 16, and that session was spent on threats to his teammates. He argued to take the mind-controller down first, was knocked to exactly 0 and got back up to face Blitzkrieg, and — in the part of the ending the retcon kept — *"manages to hold off Blitzkrieg for a round, allowing Lock-Step to get Oracle and Quasar-Force out."* **That rear guard is the clearest act on the Session 16 record of risking himself so others could escape.** No debits, and no evidence yet toward the public or toward enemies. Provisional.
+   * **Session 17: +5.0 → +5.5 (+0.5).** **The only Titan who spoke for the people the errand would kill.** *"If they're really killing people that's kind of our problem too right?"* — and for the infected, *"if you kill the progenitor, what happened with that people?"* — pressed against three veterans on the day he joined, and turned into a rule the de facto leader accepted for the arena. It cost him standing, not safety, so the move is half a point. Against: a full combat punch into a teammate just up from −24 (who had asked for it); *"Enter when you can"* to the frozen Quasar-Force before walking on; and two opening blasts (the second a Marvel for 86) that put Four-Fold to −29 in a staged bout, after which he sat down in the stands.
+4. **Quasar-Force** `+3.5`
+   * **All-time.** A real heroic record, mostly at moderate personal risk and kind to enemies in person. In Session 3 his barrier stopped Fade-Out's murders of the Burnout Kings and he *"made himself a target"*; in Session 7 he pulled an unconscious enemy out of the gassed lab; in Session 13 he moved the controlled Star Heart away from the Breeder and cut Doctor Varga free; in Session 14 he *"moves out of his safe space"* to take the Sphere and was stabbed to −12. On Kwa he argued that a non-predatory species should not be hunted. Against: he fights from cover while others take the hits, and since Session 15 he has endorsed killing by proxy — *"full lethal fury,"* then *"murder hobos."* **The boy who shielded Fade-Out's victims endorsed sending Fade-Out.**
+   * **Session 17: +4.5 → +3.5 (−1.0).** **The endorsement became acceptance of bystander deaths.** *"The destined will kill every man and woman in that lab, whether the progenitor is there or not"* — the obvious cost, stated plainly — followed by a defence of the errand: *"we needed to save the world and we were short on hands."* Seeing the cost to people who are not the target and backing the plan anyway is the opposite of what this axis measures. Naming it a compromise keeps the drop to a point; honour and an offered friendship in a staged bout buy nothing back.
+5. **Lock-Step** `+3.0`
+   * **All-time.** **The campaign's most courageous rescuer and the author of its worst anti-heroic act.** For: he teleported into the Session 2 ritual *"ignoring the whole argument"*; teleported the bank's hostages out in Session 4; went into a room of armed kidnappers for Sarah in Session 8; went back into Omega Grade's lab for Oracle and Exemplar in Session 10; and at the end of Session 16 got Oracle and Quasar-Force out, then went back for Edge, and for Intrepid *"using just about the last of his focus."* Against: the Destined commissioned to kill a detainee so the Titans could *"keep our hands clean,"* a restrained captive humiliated, and a fourteen-year-old teammate sedated twice. **He goes into more danger for more people than anyone on the team; his debits are acts, not words, which is why he is last.**
+   * **Session 17: +3.5 → +3.0 (−0.5).** Against: the commission became doctrine, delivered to the recruit who asked about the people it would kill — *"deaths we're not worried about right now."* For: at the door he stayed with the frozen youngest in case someone *"found Quasar-Force while he can't move"* (*"I just don't feel comfortable leaving our youngest"*), and in the arena he set the no-kill rule for both teams. The stay is real but cheap; the doctrine is about real lives.
 
 ## **2\. Enemy Risk**
 
@@ -1839,7 +1861,7 @@ What happened before the pause:
    * **Session 17: holds at 7.5.** He chose to stay behind alone with the youngest, and he was right that it could have been a trap. Holds.
 2. **Intrepid** `6.0`
    * **All-time.** A huge Health pool and fast regeneration make him extremely hard to kill alone. Logic 0, Vigilance 3 and no investigative capability mean he would never find anyone to fight.
-   * **Session 17: holds at 6.0.** He went through the door ahead of the team and did the stepping puzzle alone. Holds.
+   * **Session 17: holds at 6.0.** He went through the door ahead of the team and walked the stepping puzzle alone under the orbs, until Lock-Step's step finished it. Holds.
 3. **Edge** `6.0`
    * **All-time.** In Session 16, **the best solo profile on arrival after Lock-Step's**: a healing factor, innate powers, a dodge, and Heightened Senses 2 to find the fight and know who was lying in it. He did the one solo job of the fight, holding off Blitzkrieg alone.
    * **Session 17: 6.5 → 6.0 (−0.5).** ⟨Re-spec⟩ The two features that kept him alive alone are gone — the healing factor and the dodge. The senses and the area power that would let him finish a fight alone are new. **He can find the fight and end it, and nobody heals him afterwards.**
@@ -2292,7 +2314,7 @@ What happened before the pause:
    * **Session 17: holds at +7.0.** Nightwing would read *"the destined will kill every man and woman in that lab"* beside it. He has not.
 3. **Edge** `+6.0`
    * **All-time.** **Chosen by Nightwing personally**, and briefed by him on the five villains before his first fight — the only Titan he is recorded as briefing in three sessions. A recruiter's confidence is not a track record.
-   * **Session 17: holds at +6.0.** The recruit he chose objected, on his second day, to a killing his new team had commissioned — the profile Nightwing would want to have chosen. Holds, because Nightwing does not know.
+   * **Session 17: holds at +6.0.** The recruit he chose objected, on the day he joined, to a killing his new team had commissioned — the profile Nightwing would want to have chosen. Holds, because Nightwing does not know.
 4. **Intrepid** `+1.5`
    * **All-time.** No problems and no contribution. Invited to raise concerns at a round-table convened to hear them, he had none.
    * **Session 17: holds at +1.5.** Nothing changed.
@@ -2374,7 +2396,7 @@ So the scale follows the axis. Capability and exposure are magnitudes (`0.0–10
 
 **Conversion.** Magnitude axes map as **(score − 5) × 2**, anchored so that 5.0 (the competent Rank 3 baseline) becomes 0. A negative there means *"this far below what a baseline peer would bring,"* not *"actively harmful."*
 
-***⟨Note on comparability this revision⟩*** **All five members are returning, so every figure in this section is compared directly with the published Session 16 figure on the same five-person board**, and no like-for-like adjustment is needed. Two of the comparisons carry sheet changes rather than play: Edge's rebuild and Oracle's declared advances. Section 10.1.6 separates them from the session.
+***⟨Note on comparability this revision⟩*** **All five members are returning, so every figure in this section is compared with Session 16 on the same five-person board.** ⟨New axis⟩ This revision adds 1.15 Heroism, so the Session 16 figures in parentheses are **restated on 102 axes**, with 1.15 at its retroactive baseline; where a published Session 16 figure is quoted, it is labelled as published. The restatement raised every Session 16 composite: Oracle +0.043, Quasar-Force +0.011, Lock-Step +0.036, Edge +0.047 and Intrepid +0.079. Two of the comparisons carry sheet changes rather than play: Edge's rebuild and Oracle's declared advances. Section 10.1.6 separates them from the session.
 
 ### **10.1 Aggregate Standing — Score-Based**
 
@@ -2394,56 +2416,56 @@ So the scale follows the axis. Capability and exposure are magnitudes (`0.0–10
 
 **B — Character, Standing, And Risk** *(valence `−10…+10`, except Risk `0…−10`)*
 
-| PC | Character §1 *(14)* | Team Standing §3.1–3.5 *(5)* | External Reputation §9 *(11)* | *— all three combined (30)* | Risk Load §2 *(8)* |
+| PC | Character §1 *(15)* | Team Standing §3.1–3.5 *(5)* | External Reputation §9 *(11)* | *— all three combined (31)* | Risk Load §2 *(8)* |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Oracle** | **+7.18** *(+7.36)* | **+7.60** | **+5.86** | *+6.77* *(+6.85)* | −4.94 *(−4.75)* |
-| **Quasar-Force** | +5.57 *(+5.82)* | +5.70 *(+5.60)* | +4.36 | *+5.15* *(+5.25)* | **−9.12** *(−9.06)* |
-| **Edge** | +4.75 *(+4.00)* | +5.10 *(+5.20)* | +2.05 | *+3.82* *(+3.47)* | −5.31 *(−5.00)* |
-| **Intrepid** | +3.29 *(+3.18)* | +5.20 *(+5.10)* | +2.50 | *+3.32* *(+3.25)* | **−3.31** *(−3.25)* |
-| **Lock-Step** | **−3.32** *(−3.21)* | **+4.40** *(+4.70)* | **−1.95** | ***−1.53*** *(−1.43)* | −8.38 *(−8.25)* |
+| **Oracle** | **+7.20** *(+7.40)* | **+7.60** | **+5.86** | ***+6.79*** *(+6.89)* | −4.94 *(−4.75)* |
+| **Quasar-Force** | +5.43 *(+5.73)* | +5.70 *(+5.60)* | +4.36 | *+5.10* *(+5.23)* | **−9.12** *(−9.06)* |
+| **Edge** | +4.80 *(+4.07)* | +5.10 *(+5.20)* | +2.05 | *+3.87* *(+3.52)* | −5.31 *(−5.00)* |
+| **Intrepid** | +3.53 *(+3.43)* | +5.20 *(+5.10)* | +2.50 | *+3.44* *(+3.37)* | **−3.31** *(−3.25)* |
+| **Lock-Step** | **−2.90** *(−2.77)* | **+4.40** *(+4.70)* | **−1.95** | ***−1.39*** *(−1.27)* | −8.38 *(−8.25)* |
 
 *The combined column is the basis used by the composite in 10.1.2 and is shown for continuity. §3.6–3.9 (Command Chair and Pecking Order) are magnitude axes and sit in Table A's Capability figure instead. Bold marks the best and the worst figure in each column.*
 
-**The four veterans' indices barely moved; the newcomer's moved on every column but Fame and Reputation.**
+**The four veterans' indices barely moved; the newcomer's moved on every column but Fame, and on Reputation only by a mentor-tag half-point.**
 
-- **Edge.** Character +0.75 (+4.00 → +4.75), on the objection and the rule. Non-Combat +0.38, on Ego 7 and a day of organising. Combat +0.12 and Robustness +0.05, on the rebuild. Against: Risk −0.31, on the rebuild's thicker containment file and the arena, and Team Standing −0.10, on the healing factor he gave up.
-- **Oracle.** Character −0.18, on the errand question answered by deference and *"most of the people telling us what to do don't know what they're doing."* Combat +0.08 on the advances. Robustness −0.16, on a module that reacted to the abduction and a copy that beat him with his own kit.
-- **Quasar-Force.** Character −0.25 — the largest character fall among the veterans — on the sentence about the lab, the leaks and the penalty. Team Standing +0.10 on *"you're the brains."* Risk −0.06, to **−9.12, still the lowest on the board.**
-- **Lock-Step.** Team Standing −0.30, on the door and the formation. Character −0.11 and Risk −0.13, on the doctrine.
-- **Intrepid.** Character +0.11 and Non-Combat +0.10, on the first session in which his calls carried.
+- **Edge.** Character +0.73 (+4.07 → +4.80), on the objection and the rule. Non-Combat +0.38, on Ego 7 and a day of organising. Combat +0.12, on the rebuild. Robustness +0.05, on the request to train; the rebuild alone was worth −0.03 there. Against: Risk −0.31, on the rebuild's thicker containment file and the arena, and Team Standing −0.10, on the healing factor he gave up.
+- **Oracle.** Character −0.20, on the errand question answered by deference and *"most of the people telling us what to do don't know what they're doing."* Combat +0.08 on the advances. Robustness −0.16, on a module that reacted to the abduction and a copy that beat him with his own kit.
+- **Quasar-Force.** Character −0.30 — the largest character fall among the veterans — on the sentence about the lab, the leaks and the penalty. Team Standing +0.10 on *"you're the brains."* Risk −0.06, to **−9.12, still the lowest on the board.**
+- **Lock-Step.** Team Standing −0.30, on the door and the formation. Character −0.13 and Risk −0.13, on the doctrine.
+- **Intrepid.** Character +0.10 and Non-Combat +0.10, on the first session in which his calls carried.
 
-**Edge's profile is still the flattest on the board (SD 4.80), and it now touches both ends of the scale.** He is third on the combined character-standing-reputation figure (+3.82), now half a point clear of Intrepid. He is fourth on Combat (5.77) and second on Robustness (5.17), and his Fame index of 3.00 is still the lowest on the board, which for a member of this team is good news.
+**Edge's profile is still the flattest on the board (SD 4.79), and it now touches both ends of the scale.** He is third on the combined character-standing-reputation figure (+3.87), now more than four tenths clear of Intrepid. He is fourth on Combat (5.77) and second on Robustness (5.17), and his Fame index of 3.00 is still the lowest on the board, which for a member of this team is good news.
 
 ####
 
 #### **10.1.2 Composite Net Score**
 
-*The **94 non-neutral axes** normalised to `−10…+10`. Fame is excluded, matching the polarity classification in 10.2.1; a fame-inclusive version is in 10.1.6. Composites are shown to three decimals.*
+*The **95 non-neutral axes** normalised to `−10…+10`. Fame is excluded, matching the polarity classification in 10.2.1; a fame-inclusive version is in 10.1.6. Composites are shown to three decimals.*
 
 | PC | Composite | Median | SD | Range | Read |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Oracle** | **+3.856** *(+3.888)* | +5.55 *(+5.6)* | 5.01 *(4.98)* | −9.0 → **+10.0** | Down three hundredths; the lead holds to within a thousandth |
-| **Quasar-Force** | **+3.463** *(+3.494)* | **+5.6** *(+5.8)* | **5.81** *(5.77)* | **−10.0** → +9.6 | Down three hundredths; the median still leads Oracle's |
-| **Edge** | **+0.932** *(+0.566)* | +1.25 *(+1.8)* | 4.80 *(4.72)* | **−10.0** → +9.0 | The only real mover, and 85% of it is play |
-| **Lock-Step** | **+0.030** *(+0.068)* | 0.0 | 5.73 | **−10.0** → +9.6 | Down four hundredths, toward zero |
-| **Intrepid** | **−0.457** *(−0.531)* | +0.8 | 5.07 *(5.10)* | −9.0 → +9.2 | The largest gain among the veterans |
+| **Oracle** | **+3.895** *(+3.932)* | +5.6 | 5.00 *(4.97)* | −9.0 → **+10.0** | Down four hundredths; the lead holds to within half a hundredth |
+| **Quasar-Force** | **+3.463** *(+3.504)* | **+5.6** | **5.78** *(5.74)* | **−10.0** → +9.6 | Down four hundredths; the median is level with Oracle's |
+| **Edge** | **+0.980** *(+0.613)* | +1.5 *(+2.0)* | 4.79 *(4.72)* | **−10.0** → +9.0 | The only real mover, and 86% of it is play |
+| **Lock-Step** | **+0.061** *(+0.104)* | 0.0 | 5.71 | **−10.0** → +9.6 | Down four hundredths, toward zero |
+| **Intrepid** | **−0.379** *(−0.452)* | +1.0 | 5.10 *(5.13)* | −9.0 → +9.2 | The largest gain among the veterans |
 
-**Oracle leads by 0.393, against 0.394.** The history runs 0.77, 0.81, 0.77, 0.72, 0.36, 0.39 and now **0.39 again**. Both men fell by about three hundredths for unrelated reasons:
+**Oracle leads by 0.432, against 0.427 restated.** The published history runs 0.77, 0.81, 0.77, 0.72, 0.36 and 0.39; Heroism adds between three and four hundredths to it, because Oracle is first on the new axis and Quasar-Force fourth. **On like-for-like axes the lead moved by four thousandths.** Both men fell by about four hundredths for unrelated reasons:
 
-- **Oracle** gained on his advances (+0.028) and lost more on play (−0.060): the errand question answered by deference, a burnout entry, a copy that beat him, and a module that reacted to the abduction.
-- **Quasar-Force** lost on play alone (−0.031): the sentence about the lab, the leaks, the penalty and the box.
+- **Oracle** gained on his advances (+0.027) and lost more on play (−0.064): the errand question answered by deference (which also cost him half a point of Heroism), a burnout entry, a copy that beat him, and a module that reacted to the abduction.
+- **Quasar-Force** lost on play alone (−0.041): the sentence about the lab (a full point of it on Heroism), the leaks, the penalty and the box.
 
-**Edge rises 0.366, to +0.932 — the only composite on the board to move by more than a tenth.** Of the rise, +0.313 is play, +0.032 the rebuild and +0.021 the mentor tag (10.1.6). **The rebuild was close to neutral on the composite**: it bought more than it cost in combat and potency, and paid it back in support burden, healing, stamina and risk. His range now touches −10.0 (Healing, at 0.0), and his median fell to +1.25 even as his mean rose, which is what a profile looks like when it acquires both extremes.
+**Edge rises 0.367, to +0.980 — the only composite on the board to move by more than a tenth.** Of the rise, +0.315 is play, +0.032 the rebuild and +0.021 the mentor tag (10.1.6). **The rebuild was close to neutral on the composite**: it bought more than it cost in combat and potency, and paid it back in support burden, healing, stamina and risk. His range now touches −10.0 (Healing, at 0.0), and his median fell to +1.5 even as his mean rose, which is what a profile looks like when it acquires both extremes.
 
-**Lock-Step falls 0.038, to +0.030.** Seventeen of his axes moved, four for the better and thirteen for the worse. He is still above zero, by three hundredths.
+**Lock-Step falls 0.043, to +0.061.** Eighteen of his axes moved, four for the better and fourteen for the worse. He is still above zero, by six hundredths.
 
-**Intrepid rises 0.074, to −0.457**, the largest gain among the veterans: eleven of his thirteen movements went up, almost all of them on the first session in which his calls carried.
+**Intrepid rises 0.073, to −0.379**, the largest gain among the veterans: eleven of his thirteen movements went up, almost all of them on the first session in which his calls carried.
 
 #### **10.1.3 Section Means on the Composite Scale**
 
 | Section | n | Oracle | Quasar-Force | Lock-Step | Intrepid | Edge |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| 1 — Psychology & Discipline | 14 | **+7.18** *(+7.36)* | +5.57 *(+5.82)* | **−3.32** *(−3.21)* | +3.29 *(+3.18)* | +4.75 *(+4.00)* |
+| 1 — Psychology & Discipline | 15 | **+7.20** *(+7.40)* | +5.43 *(+5.73)* | **−2.90** *(−2.77)* | +3.53 *(+3.43)* | +4.80 *(+4.07)* |
 | 2 — Enemy Risk | 8 | −4.94 *(−4.75)* | **−9.12** *(−9.06)* | −8.38 *(−8.25)* | **−3.31** *(−3.25)* | −5.31 *(−5.00)* |
 | 3 — Team Internals | 9 | **+6.98** | +3.99 *(+3.71)* | +2.96 *(+3.17)* | **+0.67** *(+0.39)* | +1.50 *(+1.33)* |
 | 4 — Combat | 22 | +3.38 *(+3.23)* | **+3.79** | +3.48 *(+3.53)* | **+0.37** | +1.55 *(+1.30)* |
@@ -2453,9 +2475,9 @@ So the scale follows the axis. Capability and exposure are magnitudes (`0.0–10
 | 8 — Fame | 7 | −0.03 | **+8.34** | +3.89 | −3.34 | **−4.00** |
 | 9 — Reputation | 11 | **+5.86** | +4.36 | **−1.95** | +2.50 | +2.05 *(+2.00)* |
 
-**The three largest section movements on the board are all Edge's**: Overall +0.80 (+2.86 → +3.66), Psychology +0.75 and Non-Combat +0.75. **His Overall mean now passes Lock-Step's** (+3.66 against +3.46), on the rebuild's potency and the session's value.
+**The three largest section movements on the board are all Edge's**: Overall +0.80 (+2.86 → +3.66), Non-Combat +0.75 and Psychology +0.73. **His Overall mean now passes Lock-Step's** (+3.66 against +3.46), on the rebuild's potency and the session's value.
 
-**Among the veterans the largest movement is Oracle's Robustness, +0.17 → −0.17**, which takes his robustness mean below zero. Behind it come Quasar-Force's and Intrepid's Team Internals (+0.28 each) and Quasar-Force's Psychology (−0.25). Nothing else among the four moved by a quarter of a point.
+**Among the veterans the largest movement is Oracle's Robustness, +0.17 → −0.17**, which takes his robustness mean below zero. Behind it come Quasar-Force's Psychology (−0.30) and Quasar-Force's and Intrepid's Team Internals (+0.28 each). Nothing else among the four moved by a quarter of a point.
 
 **Robustness held its spread at 1.27 end to end.** Lock-Step still leads it and Intrepid still trails it. Oracle and Quasar-Force both fell, and **three of the five members now have a negative robustness mean.**
 
@@ -2526,36 +2548,36 @@ So the scale follows the axis. Capability and exposure are magnitudes (`0.0–10
 
 #### **10.1.6 Sensitivity**
 
-**Including the seven fame axes keeps the flip for a third revision.** Across 101 axes, with exposure treated as favourable, the composites read:
+**Including the seven fame axes keeps the flip for a third revision.** Across 102 axes, with exposure treated as favourable, the composites read:
 
-- **Quasar-Force +3.801**
-- **Oracle +3.587**
-- Edge +0.590
-- Lock-Step +0.297
-- Intrepid −0.657
+- **Quasar-Force +3.798**
+- **Oracle +3.625**
+- Edge +0.638
+- Lock-Step +0.324
+- Intrepid −0.582
 
-**Quasar-Force leads by 0.214**, against 0.21. Fame is worth +0.34 to Quasar-Force, +0.27 to Lock-Step, −0.20 to Intrepid, −0.27 to Oracle and −0.34 to Edge. **Unlike last revision, that is no longer enough to drop the newcomer below Lock-Step**: he is third on this treatment too.
+**Quasar-Force leads by 0.173**, against 0.176 restated (0.21 published). Fame is worth +0.33 to Quasar-Force, +0.26 to Lock-Step, −0.20 to Intrepid, −0.27 to Oracle and −0.34 to Edge. **Unlike last revision, that is no longer enough to drop the newcomer below Lock-Step**: he is third on this treatment too.
 
-**Rescaling to `0–10`** via `(x+10)/2` on the fame-inclusive composite preserves the order: Quasar-Force **6.90**, Oracle **6.79**, Edge **5.30**, Lock-Step **5.15**, Intrepid **4.67**.
+**Rescaling to `0–10`** via `(x+10)/2` on the fame-inclusive composite preserves the order: Quasar-Force **6.90**, Oracle **6.81**, Edge **5.32**, Lock-Step **5.16**, Intrepid **4.71**.
 
-**Excluding the risk section as well — the 86 favourable axes only — Oracle stays in front: +4.674 to +4.634.** His lead on this treatment widens from 0.030 to 0.041. **Edge is third (+1.513)**, now 0.70 clear of Lock-Step (+0.812).
+**Excluding the risk section as well — the 87 favourable axes only — Oracle stays in front: +4.707 to +4.621.** His lead on this treatment widens from 0.070 to 0.086. **Edge is third (+1.559)**, now 0.72 clear of Lock-Step (+0.837).
 
-**Section-weighted treatment** gives each section equal weight instead of each axis. Over the eight non-fame sections Oracle leads +3.42 to +2.69, with Edge third at +0.81. With fame included Quasar-Force leads +3.32 to +3.04. **The weighting scheme still decides the answer.**
+**Section-weighted treatment** gives each section equal weight instead of each axis. Over the eight non-fame sections Oracle leads +3.43 to +2.68, with Edge third at +0.82. With fame included Quasar-Force leads +3.31 to +3.04. **The weighting scheme still decides the answer.**
 
 **Sheet sensitivity.** Two sheets changed, and the movements are tagged (play, ⟨Re-spec⟩, ⟨Advance⟩, and the roster's mentor-tag clarification):
 
-- **Edge's rebuild** moved 31 placements and was worth **+0.032** on the composite. The mentor tag moved three more, worth +0.021. **Play moved 27 placements and was worth +0.313.** Revert the rebuild and the tag and Edge is +0.879; revert the play and he is +0.619. **The newcomer's rise is what he did and said in Session 17, not what he bought.**
-- **Oracle's advances** moved five placements and were worth **+0.028**; his play was worth −0.060. Without the advances he would be +3.829, and his lead 0.366.
+- **Edge's rebuild** moved 31 placements and was worth **+0.032** on the composite. The mentor tag moved three more, worth +0.021. **Play moved 28 placements and was worth +0.315.** Revert the rebuild and the tag and Edge is +0.927; revert the play and he is +0.665. **The newcomer's rise is what he did and said in Session 17, not what he bought.**
+- **Oracle's advances** moved five placements and were worth **+0.027**; his play was worth −0.064. Without the advances he would be +3.867, and his lead 0.404.
 
-**Fight sensitivity.** Revert all twenty-two combat axes to their Session 16 values and the composites read Oracle +3.820, Quasar-Force +3.463, Lock-Step +0.040, Edge +0.874 and Intrepid −0.457. The combat axes were worth +0.058 to Edge (all of it the rebuild) and +0.036 to Oracle, of which +0.026 is the advances and +0.011 a de-escalation call. They were worth −0.011 to Lock-Step and exactly nothing to Quasar-Force or Intrepid. **The bout itself moved no score; a one-turn fight is not evidence of much.**
+**Fight sensitivity.** Revert all twenty-two combat axes to their Session 16 values and the composites read Oracle +3.859, Quasar-Force +3.463, Lock-Step +0.072, Edge +0.923 and Intrepid −0.379. The combat axes were worth +0.057 to Edge (all of it the rebuild) and +0.036 to Oracle, of which +0.025 is the advances and +0.011 a de-escalation call. They were worth −0.011 to Lock-Step and exactly nothing to Quasar-Force or Intrepid. **The bout itself moved no score; a one-turn fight is not evidence of much.**
 
-**One-session sensitivity.** Session 17 moved **126 placements on the five-person board**:
+**One-session sensitivity.** Session 17 moved **130 placements on the five-person board**, four of them on the new Heroism axis:
 
-- **Oracle** 17 (6 better, 11 worse; five of the six are his advances), net **−0.032**.
-- **Quasar-Force** 18 (7 better, 11 worse), net **−0.031**.
-- **Lock-Step** 17 (4 better, 13 worse), net **−0.038**.
-- **Edge** 61 (39 better, 22 worse; 31 re-spec, 3 roster), net **+0.366**.
-- **Intrepid** 13 (11 better, 2 worse), net **+0.074**.
+- **Oracle** 18 (6 better, 12 worse; five of the six are his advances), net **−0.037**.
+- **Quasar-Force** 19 (7 better, 12 worse), net **−0.041**.
+- **Lock-Step** 18 (4 better, 14 worse), net **−0.043**.
+- **Edge** 62 (40 better, 22 worse; 31 re-spec, 3 roster), net **+0.367**.
+- **Intrepid** 13 (11 better, 2 worse), net **+0.073**.
 
 **All three senior members fell, and by almost the same amount.** The session that put a moral question to the room moved its three senior members down on character, each in his own way, and moved the two juniors up.
 
@@ -2569,22 +2591,22 @@ So the scale follows the axis. Capability and exposure are magnitudes (`0.0–10
 
 | Class | First place means | Axes | Which |
 | :---- | :---- | :---- | :---- |
-| **Favorable** | Best — more of a desirable quality | **86** | §1 (14), §3 (9), §4 (22), §5 (17), §6 (6), §7 (7), §9 (11) |
+| **Favorable** | Best — more of a desirable quality | **87** | §1 (15), §3 (9), §4 (22), §5 (17), §6 (6), §7 (7), §9 (11) |
 | **Risk** | Worst — most exposed to a threat | **8** | §2.1–2.8 |
 | **Neutral / double-edged** | Most exposure; benefit is context-dependent | **7** | §8.1–8.7 (Fame) |
-| **Total** |  | **101** |  |
+| **Total** |  | **102** |  |
 
-#### **10.2.2 Favorable Axes (86) — *lower average is better***
+#### **10.2.2 Favorable Axes (87) — *lower average is better***
 
 | PC | 1sts | 5ths | Average |
 | :---- | :---- | :---- | :---- |
-| **Oracle** | **37** *(37)* | 6 *(5)* | **2.12** *(2.10)* |
-| **Quasar-Force** | 27 *(27)* | 6 *(7)* | 2.30 *(2.33)* |
-| **Edge** | 2 *(1)* | 11 *(12)* | 3.37 *(3.49)* |
-| **Lock-Step** | 13 *(13)* | 28 *(28)* | 3.40 *(3.30)* |
-| **Intrepid** | 7 *(8)* | **35** *(34)* | 3.81 *(3.78)* |
+| **Oracle** | **38** *(38)* | 6 *(5)* | **2.10** *(2.09)* |
+| **Quasar-Force** | 27 *(27)* | 6 *(7)* | 2.32 *(2.34)* |
+| **Edge** | 2 *(1)* | 11 *(12)* | 3.37 *(3.48)* |
+| **Lock-Step** | 13 *(13)* | 29 *(29)* | 3.41 *(3.32)* |
+| **Intrepid** | 7 *(8)* | **35** *(34)* | 3.79 *(3.76)* |
 
-**Edge passes Lock-Step on the favourable average**, 3.37 against 3.40, and takes his second first place: Single-Target Damage, from Intrepid. Oracle picked up a last place (Area Damage, where Edge's rebuild put him above), and Quasar-Force lost one (Healing, where Edge now sits below him). **Lock-Step's average fell a tenth**: eight of his placements are lower and none is higher, on the door, the doctrine and the newcomer passing him.
+**Edge passes Lock-Step on the favourable average**, 3.37 against 3.41, and takes his second first place: Single-Target Damage, from Intrepid. Oracle picked up a last place (Area Damage, where Edge's rebuild put him above), and Quasar-Force lost one (Healing, where Edge now sits below him). **Lock-Step's average fell nine hundredths**: eight of his placements are lower and none is higher, on the door, the doctrine and the newcomer passing him.
 
 #### **10.2.3 Risk Axes (8) — *higher average is better***
 
@@ -2598,45 +2620,45 @@ So the scale follows the axis. Capability and exposure are magnitudes (`0.0–10
 
 **No risk position changed, for the third time in four revisions.** Twelve risk scores moved, every one of them toward more exposure, and no order changed. **Quasar-Force and Lock-Step hold every first place on the risk board between them for a fourth revision.**
 
-#### **10.2.4 All 101 Axes — Raw Position**
+#### **10.2.4 All 102 Axes — Raw Position**
 
 | PC | 1sts | 5ths | Average | 1 | 2 | 3 | 4 | 5 | SD |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Quasar-Force** | **40** | 6 | **2.14** | 40 | 29 | 16 | 10 | 6 | 1.21 |
-| **Oracle** | 37 | 9 | 2.29 | 37 | 26 | 19 | 10 | 9 | 1.29 |
-| **Lock-Step** | 15 | 28 | 3.21 | 15 | 22 | 19 | 17 | 28 | 1.43 |
-| **Edge** | 2 | 15 | 3.47 | 2 | 15 | 33 | 36 | 15 | **0.98** |
-| **Intrepid** | 7 | **43** | 3.90 | 7 | 9 | 14 | 28 | 43 | 1.24 |
+| **Quasar-Force** | **40** | 6 | **2.16** | 40 | 29 | 16 | 11 | 6 | 1.22 |
+| **Oracle** | 38 | 9 | 2.27 | 38 | 26 | 19 | 10 | 9 | 1.29 |
+| **Lock-Step** | 15 | 29 | 3.23 | 15 | 22 | 19 | 17 | 29 | 1.43 |
+| **Edge** | 2 | 15 | 3.46 | 2 | 15 | 34 | 36 | 15 | **0.98** |
+| **Intrepid** | 7 | **43** | 3.88 | 7 | 10 | 14 | 28 | 43 | 1.25 |
 
-*Session 16 distributions:* Quasar-Force 40 / 28 / 17 / 9 / 7, average 2.16; Oracle 37 / 27 / 17 / 12 / 8, average 2.28; Lock-Step 15 / 25 / 21 / 12 / 28, average 3.13; Edge 1 / 15 / 27 / 42 / 16, average 3.56; Intrepid 8 / 6 / 19 / 26 / 42, average 3.87.
+*Session 16 distributions, restated on 102 axes:* Quasar-Force 40 / 28 / 17 / 10 / 7, average 2.18; Oracle 38 / 27 / 17 / 12 / 8, average 2.26; Lock-Step 15 / 25 / 21 / 12 / 29, average 3.15; Edge 1 / 15 / 28 / 42 / 16, average 3.56; Intrepid 8 / 7 / 19 / 26 / 42, average 3.85.
 
-**Quasar-Force places top-two on 69 of 101 axes**, one more than last revision. **Lock-Step lost three second places** — Command Chair overall, Reaction and Area Damage — and five of his thirds became fourths, the clearest position-based trace of the session. **Edge's distribution is still the tightest on the board (SD 0.98)**: two firsts, fifteen lasts, and 84 placements in the middle three. **Intrepid is last on 43 of 101**; six are risk axes, and good news.
+**Quasar-Force places top-two on 69 of 102 axes**, one more than last revision. **Lock-Step lost three second places** — Command Chair overall, Reaction and Area Damage — and five of his thirds became fourths, the clearest position-based trace of the session. **Edge's distribution is still the tightest on the board (SD 0.98)**: two firsts, fifteen lasts, and 85 placements in the middle three. **Intrepid is last on 43 of 102**; six are risk axes, and good news.
 
-#### **10.2.5 Placement Tally (94 non-neutral axes)**
+#### **10.2.5 Placement Tally (95 non-neutral axes)**
 
 | PC | Good 1sts | Good 5ths | Bad 1sts | Bad 5ths | Net |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Oracle** | 37 | 6 | 0 | 2 | **+33** *(+34)* |
+| **Oracle** | 38 | 6 | 0 | 2 | **+34** *(+35)* |
 | **Quasar-Force** | 27 | 6 | 6 | 0 | **+15** *(+14)* |
 | **Edge** | 2 | 11 | 0 | 0 | **−9** *(−11)* |
-| **Lock-Step** | 13 | 28 | 2 | 0 | **−17** *(−17)* |
+| **Lock-Step** | 13 | 29 | 2 | 0 | **−18** *(−18)* |
 | **Intrepid** | 7 | 35 | 0 | 6 | **−22** *(−20)* |
 
-**Every first-or-last change on the board involves the newcomer.** He took Single-Target from Intrepid and left last place on Area Damage to Oracle and on Law to Intrepid. He also took last on Healing from Quasar-Force. On this measure Oracle is eighteen clear of second.
+**Every first-or-last change on the board involves the newcomer.** He took Single-Target from Intrepid and left last place on Area Damage to Oracle and on Law to Intrepid. He also took last on Healing from Quasar-Force. On this measure Oracle is nineteen clear of second.
 
 #### **10.2.6 Polarity-Adjusted Position Composite**
 
-*The same 94 non-neutral axes as 10.1.2, risk inverted. 5 = best placement.*
+*The same 95 non-neutral axes as 10.1.2, risk inverted. 5 = best placement.*
 
 | PC | Mean | Median | SD |
 | :---- | :---- | :---- | :---- |
-| **Oracle** | **3.85** *(3.86)* | 4.0 | 1.25 |
-| **Quasar-Force** | 3.50 *(3.48)* | 4.0 | 1.35 |
-| **Edge** | 2.70 *(2.60)* | 3.0 *(2.5)* | **0.99** |
-| **Lock-Step** | 2.55 *(2.64)* | 2.0 *(3.0)* | 1.41 |
-| **Intrepid** | 2.39 *(2.43)* | 2.0 | 1.42 |
+| **Oracle** | **3.86** *(3.87)* | 4.0 | 1.24 |
+| **Quasar-Force** | 3.48 *(3.46)* | 4.0 | 1.35 |
+| **Edge** | 2.71 *(2.60)* | 3.0 | **0.98** |
+| **Lock-Step** | 2.54 *(2.62)* | 2.0 *(3.0)* | 1.41 |
+| **Intrepid** | 2.41 *(2.44)* | 2.0 | 1.43 |
 
-**Oracle leads by 0.35, down from 0.38**: Quasar-Force's positions rose slightly while his score fell, mostly because Edge's rebuild dropped the newcomer below him on four combat and robustness axes. **Third place on this measure is now Edge's, by fifteen hundredths** — the reverse of last revision, when Lock-Step held it by four.
+**Oracle leads by 0.38, down from 0.41**: Quasar-Force's positions rose slightly while his score fell: Edge's rebuild dropped the newcomer below him on four combat and robustness axes but lifted him above on three others, and Quasar-Force's own rise to second on three team-internals axes outweighed the two psychology places he lost to Intrepid and Edge. **Third place on this measure is now Edge's, by seventeen hundredths** — the reverse of last revision, when Lock-Step held it by two on the restated figures (by four as published).
 
 #### **10.2.7 Method Comparison**
 
@@ -2644,24 +2666,24 @@ Both composites run on the same axes. Matched:
 
 |  | Score-based | Position-based | Agree? |
 | :---- | :---- | :---- | :---- |
-| **Excluding fame (94)** | **Oracle** +3.856, Quasar-Force +3.463 *(0.39)* | **Oracle** 3.85, Quasar-Force 3.50 *(0.35)* | **Yes** |
-| **Including fame (101)** | **Quasar-Force** +3.801, Oracle +3.587 *(0.21)* | **Oracle** 3.79, Quasar-Force 3.60 *(0.19)* | **No — third consecutive revision** |
-| **Third place (94)** | **Edge** +0.932, Lock-Step +0.030 *(0.90)* | **Edge** 2.70, Lock-Step 2.55 *(0.15)* | **Yes — first time** |
-| **Third place (101)** | **Edge** +0.590, Lock-Step +0.297 | **Lock-Step** 2.63, Edge 2.61 | **No, by two hundredths** |
-| **Raw first-place count (101)** | — | **Quasar-Force** 40, Oracle 37 | **No — fourth consecutive revision** |
+| **Excluding fame (95)** | **Oracle** +3.895, Quasar-Force +3.463 *(0.43)* | **Oracle** 3.86, Quasar-Force 3.48 *(0.38)* | **Yes** |
+| **Including fame (102)** | **Quasar-Force** +3.798, Oracle +3.625 *(0.17)* | **Oracle** 3.80, Quasar-Force 3.59 *(0.22)* | **No — third consecutive revision** |
+| **Third place (95)** | **Edge** +0.980, Lock-Step +0.061 *(0.92)* | **Edge** 2.71, Lock-Step 2.54 *(0.17)* | **Yes — first time** |
+| **Third place (102)** | **Edge** +0.638, Lock-Step +0.324 | **Level**: Lock-Step 2.618, Edge 2.618 | **Not quite — a dead tie** |
+| **Raw first-place count (102)** | — | **Quasar-Force** 40, Oracle 38 | **No — fourth consecutive revision** |
 
-**Last revision's closing note set the test for third place:** *"If Edge's score-based third survives a session with deep negatives in it, the methods will agree on him; if it does not, the position composite was right."* Session 17 gave him his first deep negative — Healing at 0.0, a −10.0 on the composite scale — and **his third survived it, and the methods now agree.** The one treatment on which they still disagree is the one that counts his fame.
+**Last revision's closing note set the test for third place:** *"If Edge's score-based third survives a session with deep negatives in it, the methods will agree on him; if it does not, the position composite was right."* Session 17 gave him his first deep negative — Healing at 0.0, a −10.0 on the composite scale — and **his third survived it, and the methods now agree.** The one treatment on which they do not quite agree is the one that counts his fame, and there the position composite has him exactly level with Lock-Step, at 267 position points each over 102 axes. Without Heroism it would put Lock-Step ahead by two hundredths: the new axis, where Edge is third and Lock-Step last, is what closed it.
 
 **The re-examination, updated.** The composite splits into its native parts:
 
 | Component | Axes | Oracle | Quasar-Force | Leader |
 | :---- | :---- | :---- | :---- | :---- |
-| Capability (magnitude, §3.6–§7) | 56 | +3.55 | **+4.36** | Quasar-Force by 0.81 *(0.81)* |
-| Character, standing & reputation (valence) | 30 | **+6.77** | +5.15 | Oracle by 1.62 *(1.60)* |
-| **All favourable axes (the two above)** | **86** | **+4.674** | +4.634 | **Oracle by 0.041** *(0.030)* |
+| Capability (magnitude, §3.6–§7) | 56 | +3.55 | **+4.36** | Quasar-Force by 0.80 *(0.81)* |
+| Character, standing & reputation (valence) | 31 | **+6.79** | +5.10 | Oracle by 1.69 *(1.66)* |
+| **All favourable axes (the two above)** | **87** | **+4.707** | +4.621 | **Oracle by 0.086** *(0.070)* |
 | Risk (§2) | 8 | **−4.94** | −9.12 | Oracle by 4.19 *(4.31)* |
 
-**On what they bring, Oracle's lead grew by a hundredth**: the advances raised his capability as much as play lowered his character, and Quasar-Force's character fell further. **On what threatens them, the gap narrowed for the first time**, because Oracle took three risk half-points and Quasar-Force one. **0.356 of Oracle's 0.393 composite lead is still the risk section, and 0.037 is everything else**, against 0.367 and 0.028 last revision. Closing the lead through risk alone would still need Quasar-Force's risk mean to improve from −9.12 to about −4.5.
+**On what they bring, Oracle's lead grew by a hundredth and a half**: the advances raised his capability as much as play lowered his character, and Quasar-Force's character fell further. **On what threatens them, the gap narrowed for the first time**, because Oracle took three risk half-points and Quasar-Force one. **0.353 of Oracle's 0.432 composite lead is still the risk section, and 0.079 is everything else**, against 0.363 and 0.064 last revision restated. Heroism more than doubles the "everything else" share; without it, the figure would be 0.037. Closing the lead through risk alone would now need Quasar-Force's risk mean to improve from −9.12 to about −4.0.
 
 **The finding stands as relabelled two revisions ago:** "Oracle first" on the headline composite means "Oracle safer" far more than "Oracle better." Session 17 made him slightly more "better" and slightly less "safer," and the total did not move.
 
@@ -2674,16 +2696,16 @@ Both composites run on the same axes. Matched:
 | PC | Firsts | Where they are | 5ths | Where they are |
 | :---- | :---- | :---- | :---- | :---- |
 | **Quasar-Force** | **40** | §5:11, §8:7, §2:6, §4:5, §7:4, §9:4, §1:2, §6:1 | 6 | §6:2, §9:2, §3:1, §4:1 |
-| **Oracle** | 37 | §1:11, §4:7, §3:6, §9:6, §5:4, §7:2, §6:1 | 9 | §4:5, §2:2, §6:1, §8:1 |
-| **Lock-Step** | 15 | §4:4, §6:3, §2:2, §3:2, §5:2, §7:1, §9:1 | 28 | §1:13, §9:7, §3:3, §4:2, §7:2, §6:1 |
+| **Oracle** | 38 | §1:12, §4:7, §3:6, §9:6, §5:4, §7:2, §6:1 | 9 | §4:5, §2:2, §6:1, §8:1 |
+| **Lock-Step** | 15 | §4:4, §6:3, §2:2, §3:2, §5:2, §7:1, §9:1 | 29 | §1:14, §9:7, §3:3, §4:2, §7:2, §6:1 |
 | **Edge** | 2 | §4:2 | 15 | §4:4, §5:4, §8:4, §9:2, §3:1 |
 | **Intrepid** | 7 | §4:4, §1:1, §3:1, §6:1 | **43** | §5:13, §4:10, §2:6, §7:5, §3:4, §6:2, §8:2, §1:1 |
 
-**Oracle sweeps character, for a seventh revision.** He holds eleven of the fourteen psychology axes, six of nine team internals and six of eleven reputation axes: **23 of the 34 axes that measure who a person is rather than what they can do**, unchanged. Five of the eleven psychology firsts fell by half a point this revision — Burnout, Combat Discipline, Moral Agency, Line-Holding and JL Vetting — and he kept all five. His combat last places rose from four to five, because the newcomer's rebuild put him above Oracle on Area Damage. **He is still the best person on this team and the worst at hurting anybody.**
+**Oracle sweeps character, for a seventh revision.** He holds twelve of the fifteen psychology axes, six of nine team internals and six of eleven reputation axes: **24 of the 35 axes that measure who a person is rather than what they can do**, the new one included. Six of the twelve psychology firsts fell by half a point this revision — Burnout, Combat Discipline, Moral Agency, Line-Holding, JL Vetting and Heroism — and he kept all six. His combat last places rose from four to five, because the newcomer's rebuild put him above Oracle on Area Damage. **He is still the best person on this team and the worst at hurting anybody.**
 
 **Quasar-Force sweeps capability, exposure and most of the danger, and lost one last place.** He has forty firsts — eleven of the seventeen non-combat axes, all seven fame axes, five combat axes, four of seven overall axes and six of eight risk axes. He now has six last places: Physical Durability, Power Independence, Solo Operation, Support Burden, and the two public reputations. Healing left his list when Edge's rebuild took him to zero beneath him. **Four of the six are still one fact — a sixty-Health fourteen-year-old carrying an irreplaceable object with no way to heal — and Session 17 found that the object has a dependency of its own.**
 
-**Lock-Step is the mirror image, and Session 17 moved its middle, not its edges.** His fifteen firsts and twenty-eight lasts are the same lists as last revision. **All thirteen psychology last places are unchanged**, and the only psychology axis he is not last on is still Moral Agency, where the newcomer has now passed him. What moved was the middle: three second places lost (Command Chair overall, Reaction and Area Damage), and five more fourths.
+**Lock-Step is the mirror image, and Session 17 moved its middle, not its edges.** His fifteen firsts are the same list as last revision, and his twenty-nine lasts are last revision's twenty-eight plus Heroism. **All fourteen psychology last places are unchanged on the restated board** — on Heroism he is last while still above zero, the only psychology axis on which that is true — and the only psychology axis he is not last on is still Moral Agency, where the newcomer has now passed him. What moved was the middle: three second places lost (Command Chair overall, Reaction and Area Damage), and five more fourths.
 
 **Edge's distribution is still the narrowest on the board.** He has two firsts, Single-Target and Ranged, and fifteen lasts. **Six are tie-breaks**: Crowd Control and Healing on the record, Team Mobility under the standing order, and Engineering, Cyber and Lab on Logic. **Four are fame axes**, where last means least exposed. **Five are last on substance**: Trust, Rescue, Medical, and two reputations he has not had time to earn.
 
@@ -2751,14 +2773,14 @@ Both composites run on the same axes. Matched:
 
 **17\. A second cosmic institution has a claim on a Titan, and it works in time.** ⟨CARRIED⟩ The ring did not charge and the oath was not remembered (*"Eventually, I will remember the vow, okay, guys?"*). Lock-Step called the Grey Lantern *"my mentor technically now,"* and Intrepid called the order lazy. ⟨Ruling⟩ Time Powers are on the GM's banned list, and whatever the ring does will arrive as plot. *(New Session 15; carried Sessions 16 and 17.)*
 
-**18\. The team has contracted a villain team for lethal work — and the newcomer objected.** ⟨MOVED⟩ **The first objection on record came from the member who had been on the team for a day**: *"if they're really killing people that's kind of our problem too right?"* It drew the errand's fullest defence yet:
+**18\. The team has contracted a villain team for lethal work — and the newcomer objected.** ⟨MOVED⟩ **The first objection on record came from the member who had been on the team for an afternoon**: *"if they're really killing people that's kind of our problem too right?"* It drew the errand's fullest defence yet:
 
 - **Lock-Step:** *"deaths we're not worried about right now,"* and *"we can either save and protect our righteousness or actually save people's lives."*
 - **Quasar-Force:** *"the destined will kill every man and woman in that lab, whether the progenitor is there or not,"* and *"I think we're compromising on the killing."*
 - **Oracle** vouched for Lock-Step's account of the stakes and said nothing about the killing.
 - **Intrepid:** *"I get what you're saying."*
 
-The newcomer's answer became the arena's rule. **The question this document carried unscored about Oracle's silence is now scored** (1.10, 1.12, 1.14). The Destined have not reported back; if the hosts' promise holds, no time has passed for them either. *(New Session 15; unresolved Session 16; first objection Session 17.)*
+The newcomer's answer became the arena's rule. **The question this document carried unscored about Oracle's silence is now scored** (1.10, 1.12, 1.14, and the new 1.15). The Destined have not reported back; if the hosts' promise holds, no time has passed for them either. *(New Session 15; unresolved Session 16; first objection Session 17.)*
 
 **19\. The roster is five, and the newcomer rebuilt himself toward the vacancy's centre.** ⟨MOVED⟩ Of the six things §11.3 said the replacement would most usefully bring, Edge now brings two on paper (an answer to obscurement, and a second area attack), two in part (field investigation; robustness) and two not at all (a second healer — the rebuild removed his healing factor — and adult or professional standing). **He also brings things the vacancy did not describe**: the team's best single-target line, its second social instrument (Ego 7), and its loudest voice against killing. §11.3 has the detail. *(New Session 15; partly filled Session 16; rebuilt Session 17.)*
 
@@ -2825,7 +2847,7 @@ The roster's Rank 3→4 plan ends at its fourth line: *"{Player left the game}."
 - **The casualty.** He moved the unconscious Quasar-Force out from under the figure.
 - **Wonder Woman.** He told a founding member of the Justice League that she had failed a team of minors, and got *"Consider me admonished"* and a disclosure commitment in return.
 
-Session 14 moved him on sixty-one axes, the record until Lock-Step's seventy-two in Session 15; Edge's sixty-one in Session 17 ties it, thirty-one of them on a rebuild. ⟨OOC⟩ The clone subplot — a father who intends to overwrite him — is unresolved. So is the one instrument that would have answered it for him: Microscopic Awareness, never once demonstrated on screen.
+Session 14 moved him on sixty-one axes, the record until Lock-Step's seventy-two in Session 15; Edge's sixty-two in Session 17 passes it, thirty-one of them on a rebuild. ⟨OOC⟩ The clone subplot — a father who intends to overwrite him — is unresolved. So is the one instrument that would have answered it for him: Microscopic Awareness, never once demonstrated on screen.
 
 **A precedent worth noting.** Exemplar II was the campaign's serial re-specifier: four sheets in eight sessions, each rebuild moving him further from the character the document had just scored. Edge's rebuild before his second session is the first re-spec on the team since Exemplar II's, and it ran the other way. Exemplar II's re-specs moved him toward generalist capability he rarely used. **Edge's moved him from a precision role into the two gaps this section has listed since Session 15: area damage and a second social instrument.**
 
@@ -2868,12 +2890,12 @@ Session 14 moved him on sixty-one axes, the record until Lock-Step's seventy-two
 - **The team's best single-target line** (§4.10, first, taken from Intrepid): Ego ×7+7 with Smash-style scaling, two edges, and a second blast each round through Lightning Actions.
 - **A guaranteed first turn** in every fight (Lightning Actions), the second-best reaction profile on the team.
 - **Ego 7**, level with Lock-Step for the highest social ability score on the team, and a Monster trait that intimidates.
-- **The team's conscience on the Destined errand**, on his second day (§1.10, finding 18).
+- **The team's conscience on the Destined errand**, on the day he joined (§1.10, §1.15, finding 18).
 - **Food**, which on this team had only ever come from one person (§5.11).
 
 Gone with the rebuild: the best ranged *precision* on the team (the called shot that destroyed the device), the second Suppressive Fire line, and the only dodge reaction on the roster.
 
-**The verdict, revised: two of six on paper, two in part and two not at all — and a profile that now covers the vacancy's two largest combat gaps and none of its adulthood.** He replaced Exemplar II's senses and his area attack, and none of his adulthood. He is now third on both composites (+0.93 by score, 2.70 by position), second on combat value and potency, and fourth on non-combat potency.
+**The verdict, revised: two of six on paper, two in part and two not at all — and a profile that now covers the vacancy's two largest combat gaps and none of its adulthood.** He replaced Exemplar II's senses and his area attack, and none of his adulthood. He is now third on both composites (+0.98 by score, 2.71 by position), second on combat value and potency, and fourth on non-combat potency.
 
 ### **11.4 Loose Ends He Leaves Behind**
 
@@ -2890,18 +2912,20 @@ Gone with the rebuild: the best ranged *precision* on the team (the called shot 
 
 **Session 17 had no sheet changes among the veterans except Oracle's two declared advances, one rebuilt newcomer, a day of argument, and the shortest fight on record.** The team was taken from a staging point minutes after the warehouse — ⟨Retcon⟩ not from home, after a debrief, as the last edition said — and woke in a pocket dimension where every outside line was dead. Its hosts set it against another universe's Teen Titans for a show. The team turned the show into a sparring match, the newcomer knocked out his opponent in one turn and sat down, and the session paused at the start of Round 2.
 
-**The standings did not move, and the reasons did.** Oracle's composite lead held at 0.39 — 0.393 against 0.394 — while both leaders fell by three hundredths:
+**The standings did not move, and the reasons did.** Oracle's composite lead held at 0.43 — 0.432 against 0.427 restated with Heroism (0.394 as published) — while both leaders fell by about four hundredths:
 
 - **Oracle** answered the errand question with deference, entered his first burnout item, and lost to a copy of himself.
 - **Quasar-Force** said the sentence about the lab, leaked his life to another universe, and could not comfort the box.
 
-**Lock-Step fell by the same amount**, on the door, the doctrine and the formation he would not rehearse. **The two juniors rose: Intrepid on the first session in which his calls carried, and Edge by 0.37, to +0.93, 85% of it on what he did and said rather than on his rebuild.** The score and position composites now agree that Edge is third.
+**Lock-Step fell by the same amount**, on the door, the doctrine and the formation he would not rehearse. **The two juniors rose: Intrepid on the first session in which his calls carried, and Edge by 0.37, to +0.98, 86% of it on what he did and said rather than on his rebuild.** The score and position composites now agree that Edge is third.
+
+**One axis was added: 1.15 Heroism** — risk taken or cost paid for someone else, toward the public, teammates or enemies. Its order is the same at the retroactive Session 16 baseline and after Session 17: Oracle, Intrepid, Edge, Quasar-Force, Lock-Step. Four of its five scores moved. **The three members who defended the errand or vouched for its author fell; the one who objected rose.** Intrepid held: the ram he took and the traps he walked balanced an *"I get what you're saying."* It is the only psychology axis on which Lock-Step is last and still positive, because nobody on the team has gone into more danger for more people, and nobody else has commissioned a killing.
 
 **Last revision asked Session 17 to test ten things:**
 
 1. **The three in the warehouse, and the 24-hour clock.** Not tested, and frozen: if the hosts keep their promise, the team returns to the moment it left, with the three where they were left and the clock where it stopped. Lock-Step's link to Blitzkrieg found no mind to reach, because she was a universe away.
 2. **The hive's collection order.** Overtaken. The team was collected minutes later — by an arena's producers, on Firefly's nomination. Whether the hive and Firefly are connected is the session's open question (finding 20).
-3. **The Destined errand.** Not resolved, and for the first time **objected to**: by the newcomer, on his second day, which drew the errand's fullest defence yet from Lock-Step and Quasar-Force. **It also settled Oracle's voice**: he vouched for the errand's author and said nothing about the killing. Now scored in 1.10, 1.12 and 1.14.
+3. **The Destined errand.** Not resolved, and for the first time **objected to**: by the newcomer, on the day he joined, which drew the errand's fullest defence yet from Lock-Step and Quasar-Force. **It also settled Oracle's voice**: he vouched for the errand's author and said nothing about the killing. Now scored in 1.10, 1.12, 1.14 and the new 1.15.
 4. **Oracle's advances.** **Declared**: Agility 4 → 5 and Accuracy 1 → 2. Neither is the escape power or Uncanny, so §4.2, §4.5, §6.4 and §7.3 resolve to no change, and finding 5 gained a fourth counter instead.
 5. **Edge's senses against obscurement.** Not tested. The senses survived the rebuild.
 6. **Edge's legend, and the mentor tag.** **The tag is settled**: Barbara Gordon. **The legend is no longer hedged by the roster** — *"An ancient army-slaying cataclysm reborn"* — and he said what keeping it down costs: *"I practice my concentration a lot because if I don't, things could get bad."* What the monster is, and whether it can be woken, is still unanswered.
@@ -2913,7 +2937,7 @@ Gone with the rebuild: the best ranged *precision* on the team (the called shot 
    * the recruit Nightwing briefed without telling the team;
    * an abduction to another universe;
    * and what two of his longest-serving students now say about the adults who tell them what to do.
-10. **The flip and the third place.** The fame-inclusive score composite favours Quasar-Force for a third revision (by 0.21) while the position composite favours Oracle, and the raw first-place count has disagreed with the headline for four. **Third place survived its first deep negative** — Healing at 0.0 — and the methods now agree on Edge, except on the fame-inclusive treatment, where the position composite puts Lock-Step ahead by two hundredths.
+10. **The flip and the third place.** The fame-inclusive score composite favours Quasar-Force for a third revision (by 0.17) while the position composite favours Oracle, and the raw first-place count has disagreed with the headline for four. **Third place survived its first deep negative** — Healing at 0.0 — and the methods now agree on Edge, except on the fame-inclusive treatment, where the position composite has Edge and Lock-Step dead level; without Heroism it would put Lock-Step ahead by two hundredths.
 
 **What Session 18 should test:**
 
@@ -2927,9 +2951,9 @@ Gone with the rebuild: the best ranged *precision* on the team (the called shot 
 3. **The box.** *"I will find a way. Source—"* — whether the isolation affects Quasar-Force's powers, whether the box recovers when they return, and whether she can be comforted. §1.2, §2.6, §6.3 and finding 3 all wait on it.
 4. **Edge's Supernova.** The team's second area attack has not been thrown. Its first use decides whether §4.11's 8.5 was right, and whether *"carve through everything around him"* is a description or a warning (§4.16, §6.5).
 5. **Firefly, and the way home.** Who Minji Lin is, how she could *"elect"* the Titans, and whether the hosts keep their promise to return the team to the moment it left.
-6. **The Destined errand.** Still the largest single swing in the document, for Lock-Step and now for Quasar-Force, and with a newcomer on record against it. If the Destined have killed the lab's staff by the time the team returns, §1, §2 and §9 move for both.
+6. **The Destined errand.** Still the largest single swing in the document, for Lock-Step and now for Quasar-Force, and with a newcomer on record against it. If the Destined have killed the lab's staff by the time the team returns, §1 (Heroism among it), §2 and §9 move for both.
 7. **The formation.** Edge asked for one and was refused. Whether it gets trained at home — and who wins the argument when it is asked again — decides §3.2, §5.14 and finding 24.
 8. **Oracle's verdict on the adults.** *"Most of the people telling us what to do don't know what they're doing"* is one sentence. If it becomes a stance, §1.3, §3.6 and §9.7–9.10 move; if he says it to Nightwing, it moves differently.
 9. **The leaks.** Another universe's Titans now know that Quasar-Force will not age, where his father works, and Lock-Step's first name, and so does whoever was behind the cameras. If any of it travels home, finding 16 becomes a §8 matter.
-10. **The flip, and third place.** If the fame-inclusive flip holds again, the two methods disagree on first for a fourth revision. On third, Edge leads Lock-Step by 0.90 on score and 0.15 on position: it would take a session of deep negatives for the newcomer to lose it, and he has just had his first.
+10. **The flip, and third place.** If the fame-inclusive flip holds again, the two methods disagree on first for a fourth revision. On third, Edge leads Lock-Step by 0.92 on score and 0.17 on position: it would take a session of deep negatives for the newcomer to lose it, and he has just had his first.
 
