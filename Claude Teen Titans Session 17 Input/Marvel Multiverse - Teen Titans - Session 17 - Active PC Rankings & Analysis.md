@@ -2393,7 +2393,7 @@ So the scale follows the axis. Capability and exposure are magnitudes (`0.0–10
 
 **Conversion.** Magnitude axes map as **(score − 5) × 2**, anchored so that 5.0 (the competent Rank 3 baseline) becomes 0. A negative there means *"this far below what a baseline peer would bring,"* not *"actively harmful."*
 
-***⟨Note on comparability this revision⟩*** **All five members are returning, so every figure in this section is compared with Session 16 on the same five-person board.** ⟨New axis⟩ This revision adds 1.14 Heroism (bumping the previous 1.14 to 1.15), so the Session 16 figures in parentheses are **restated on 102 axes**, with 1.15 at its retroactive baseline; where a published Session 16 figure is quoted, it is labelled as published. The restatement raised every Session 16 composite: Oracle +0.043, Quasar-Force +0.011, Lock-Step +0.036, Edge +0.047 and Intrepid +0.079. Two of the comparisons carry sheet changes rather than play: Edge's rebuild and Oracle's declared advances. Section 10.1.6 separates them from the session.
+***⟨Note on comparability this revision⟩*** **All five members are returning, so every figure in this section is compared with Session 16 on the same five-person board.** ⟨New axis⟩ This revision adds 1.14 Heroism (bumping the previous 1.14 to 1.15), so the Session 16 figures in parentheses are **restated on 102 axes**, with 1.14 at its retroactive baseline; where a published Session 16 figure is quoted, it is labelled as published. The restatement raised every Session 16 composite: Oracle +0.043, Quasar-Force +0.011, Lock-Step +0.036, Edge +0.047 and Intrepid +0.079. Two of the comparisons carry sheet changes rather than play: Edge's rebuild and Oracle's declared advances. Section 10.1.6 separates them from the session.
 
 ### **10.1 Aggregate Standing — Score-Based**
 
@@ -2887,7 +2887,7 @@ Session 14 moved him on sixty-one axes, the record until Lock-Step's seventy-two
 * **The team's best single-target line** (§4.10, first, taken from Intrepid): Ego ×7+7 with Smash-style scaling, two edges, and a second blast each round through Lightning Actions.
 * **A guaranteed first turn** in every fight (Lightning Actions), the second-best reaction profile on the team.
 * **Ego 7**, level with Lock-Step for the highest social ability score on the team, and a Monster trait that intimidates.
-* **The team's conscience on the Destined errand**, on the day he joined (§1.10, §1.15, finding 18).
+* **The team's conscience on the Destined errand**, on the day he joined (§1.10, §1.14, finding 18).
 * **Food**, which on this team had only ever come from one person (§5.11).
 
 Gone with the rebuild: the best ranged *precision* on the team (the called shot that destroyed the device), the second Suppressive Fire line, and the only dodge reaction on the roster.
